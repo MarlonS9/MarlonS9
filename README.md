@@ -1,7 +1,7 @@
 # Hi there 👋
 ##  Welcome to My Cybersecurity Portfolio
 
-As a dedicated cybersecurity professional, I am driven by a passion for addressing complex security challenges through practical, hands-on projects. My work spans various aspects of cybersecurity, including vulnerability management and threat detection, allowing me to delve into the dynamic and evolving cybersecurity landscape. I invite you to explore my projects, which demonstrate my commitment to enhancing security operations and processes.
+As a dedicated cybersecurity professional, I am driven by a passion for addressing complex security challenges through practical, hands-on projects. My work spans various aspects of cybersecurity, including vulnerability management and threat detection, allowing me to delve into the dynamic and evolving cybersecurity landscape. Additionally, I integrate Governance, Risk, and Compliance (GRC) principles to ensure that security initiatives align with organizational objectives and regulatory requirements. I invite you to explore my projects, which demonstrate my commitment to enhancing security operations and processes.
 <!--
 **MarlonS9/MarlonS9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
