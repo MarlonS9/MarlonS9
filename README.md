@@ -68,7 +68,7 @@ In this phase, a meeting with the server team introduces the draft Vulnerability
 
 <a href='https://youtu.be/8g6uafc6LjE' target="_"><img width="600" alt="image" src="https://github.com/user-attachments/assets/549d21f4-26c2-412d-9117-d7b6835aedbf"></a>
 
-[YouTube Video: Policy Meeting for Stakeholder Buy-In](https://youtu.be/Wh8qO-50O7c)
+[YouTube Video: Policy Meeting for Stakeholder Buy-In](https://youtu.be/mPs57FCWAtQ)
 
 ---
 
